@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 380 480" font-family="'Noto Sans KR','Apple SD Gothic Neo',sans-serif">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#1B2A4A"/>
+      <stop offset="1" stop-color="#111C33"/>
+    </linearGradient>
+  </defs>
+  <rect width="380" height="480" fill="url(#bg)"/>
+  <rect x="20" y="20" width="340" height="440" fill="none" stroke="#C0A062" stroke-width="1" opacity="0.5"/>
+  <text x="190" y="78" text-anchor="middle" fill="#D8BE86" font-size="12" letter-spacing="5">GRAND FOREST LIFE</text>
+  <text x="190" y="140" text-anchor="middle" fill="#fff" font-size="30" font-weight="900">운정 아이파크</text>
+  <text x="190" y="180" text-anchor="middle" fill="#fff" font-size="30" font-weight="900">포레스트</text>
+  <line x1="120" y1="210" x2="260" y2="210" stroke="#C0A062" stroke-width="2"/>
+  <text x="190" y="252" text-anchor="middle" fill="rgba(255,255,255,0.85)" font-size="15">파주메디컬클러스터 A2BL · 총 3,250세대</text>
+  <text x="190" y="284" text-anchor="middle" fill="rgba(255,255,255,0.85)" font-size="15">전용 63~197㎡ · GTX-A 운정중앙역</text>
+  <text x="190" y="330" text-anchor="middle" fill="#D8BE86" font-size="17" font-weight="700">견본주택 개관 중</text>
+  <rect x="70" y="368" width="240" height="52" rx="6" fill="#C0A062"/>
+  <text x="190" y="401" text-anchor="middle" fill="#1B2A4A" font-size="17" font-weight="900">관심고객등록 &#8250;</text>
+  <text x="190" y="444" text-anchor="middle" fill="rgba(255,255,255,0.55)" font-size="13">대표번호 1666-6459</text>
+</svg>
