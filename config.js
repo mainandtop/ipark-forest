@@ -38,9 +38,9 @@ const SITE_CONFIG = {
   /* ── 첫 화면 이미지 팝업 ── */
   popup: {
     enabled:      true,
-    image:        "assets/images/popup.svg",
-    alt:          "운정 아이파크 포레스트 견본주택 개관 · 관심고객등록 안내",
-    link:         "#register",
+    image:        "assets/images/popup_event.jpg",
+    alt:          "예약방문고객 모두증정 — 신세계상품권 · 제주/해외 2인 여행상품권 · 대형 스튜디오 사진촬영권 · 천연다이아몬드 목걸이 교환권 · 건강검진 상품권 · 전국 호텔/펜션 무료숙박권 · 밀폐용기",
+    link:         "#register-top",
     hideForHours: 24
   },
 
