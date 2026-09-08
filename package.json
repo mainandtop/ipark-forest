@@ -1,0 +1,13 @@
+{
+  "name": "unjeong-ipark-forest",
+  "version": "1.0.0",
+  "private": true,
+  "description": "운정 아이파크 포레스트 모바일 랜딩 페이지",
+  "dependencies": {
+    "nodemailer": "^6.9.9"
+  },
+  "scripts": {
+    "dev": "vercel dev",
+    "start": "vercel dev"
+  }
+}
